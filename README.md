@@ -56,8 +56,8 @@ A Glimpse atende:
 
 ### Banco de Dados
 - **SQL Server** - Banco de dados relacional robusto
+- **My SQL** - Banco de dados relacional robusto
 - **PostgreSQL** - Banco de dados open-source poderoso
-- **MongoDB** - Banco de dados NoSQL flexível
 
 ### DevOps & Infraestrutura
 - **Docker** - Containerização de aplicações
@@ -90,10 +90,6 @@ Se você é desenvolvedor e quer trabalhar com a Glimpse:
 
 ## 🔗 Links Importantes
 
-- [GitHub](https://github.com/glimpse)
-- [LinkedIn](https://linkedin.com/company/glimpse)
-- [Portfolio](https://www.glimpse.com/portfolio)
-- [Blog](https://www.glimpse.com/blog)
 
 ## 📊 Nossos Números
 
@@ -133,42 +129,6 @@ Criamos um sistema de gestão integrado para uma empresa de logística. Resultad
 ### Projeto 3: Aplicação Mobile Web
 Desenvolvemos uma aplicação web responsiva para uma fintech. Resultado: 50k+ usuários ativos mensais.
 
-## 🤝 Parcerias
-
-Trabalhamos com as melhores ferramentas e plataformas:
-
-- AWS - Infraestrutura em nuvem
-- Stripe - Processamento de pagamentos
-- SendGrid - Serviço de email
-- Auth0 - Autenticação e segurança
-
-## 📚 Recursos Úteis
-
-- [Documentação Técnica](https://docs.glimpse.com)
-- [Guia de Boas Práticas](https://www.glimpse.com/guides)
-- [Blog Técnico](https://blog.glimpse.com)
-- [FAQ](https://www.glimpse.com/faq)
-
-## 🔒 Segurança
-
-A segurança é nossa prioridade máxima:
-
-- ✅ Criptografia SSL/TLS
-- ✅ Autenticação de dois fatores
-- ✅ Backup automático diário
-- ✅ Compliance com LGPD e GDPR
-- ✅ Auditorias de segurança regulares
-
-## 📈 Roadmap
-
-Estamos constantemente evoluindo. Confira o que vem por aí:
-
-- [ ] Plataforma de IA integrada
-- [ ] Análise avançada de dados
-- [ ] Automação de processos
-- [ ] Expansão para mercados internacionais
-- [ ] Certificação ISO 27001
-
 ## 📄 Licença
 
 Todos os projetos da Glimpse são desenvolvidos sob licença MIT, garantindo flexibilidade e liberdade de uso.
@@ -181,4 +141,4 @@ Obrigado por considerar a Glimpse para suas necessidades tecnológicas. Estamos 
 
 **Glimpse** - *blink, we changed it*
 
-© 2024 Glimpse. Todos os direitos reservados.
+© 2026 Glimpse. Todos os direitos reservados.
